@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="marker_explora">Marker in Explora</string>
+    <string name="marker_metropolinato">Marker in Parque Metropolitano</string>
+    <string name="marker_calzada">Marker in Calzada de los Heroes</string>
+    <string name="marker_altacia">Marker in Plaza Altacia</string>
+    <string name="marker_leon">Marker in Leon, Gto.</string>
+</resources>
